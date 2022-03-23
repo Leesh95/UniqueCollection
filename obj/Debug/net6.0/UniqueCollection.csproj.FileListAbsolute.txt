@@ -1,0 +1,15 @@
+C:\VisualStudio2022\C#\UniqueCollection\obj\Debug\net6.0\UniqueCollection.csproj.AssemblyReference.cache
+C:\VisualStudio2022\C#\UniqueCollection\obj\Debug\net6.0\UniqueCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio2022\C#\UniqueCollection\obj\Debug\net6.0\UniqueCollection.AssemblyInfoInputs.cache
+C:\VisualStudio2022\C#\UniqueCollection\obj\Debug\net6.0\UniqueCollection.AssemblyInfo.cs
+C:\VisualStudio2022\C#\UniqueCollection\obj\Debug\net6.0\UniqueCollection.csproj.CoreCompileInputs.cache
+C:\VisualStudio2022\C#\UniqueCollection\bin\Debug\net6.0\UniqueCollection.exe
+C:\VisualStudio2022\C#\UniqueCollection\bin\Debug\net6.0\UniqueCollection.deps.json
+C:\VisualStudio2022\C#\UniqueCollection\bin\Debug\net6.0\UniqueCollection.runtimeconfig.json
+C:\VisualStudio2022\C#\UniqueCollection\bin\Debug\net6.0\UniqueCollection.dll
+C:\VisualStudio2022\C#\UniqueCollection\bin\Debug\net6.0\ref\UniqueCollection.dll
+C:\VisualStudio2022\C#\UniqueCollection\bin\Debug\net6.0\UniqueCollection.pdb
+C:\VisualStudio2022\C#\UniqueCollection\obj\Debug\net6.0\UniqueCollection.dll
+C:\VisualStudio2022\C#\UniqueCollection\obj\Debug\net6.0\ref\UniqueCollection.dll
+C:\VisualStudio2022\C#\UniqueCollection\obj\Debug\net6.0\UniqueCollection.pdb
+C:\VisualStudio2022\C#\UniqueCollection\obj\Debug\net6.0\UniqueCollection.genruntimeconfig.cache
